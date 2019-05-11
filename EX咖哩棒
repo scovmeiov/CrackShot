@@ -1,0 +1,29 @@
+   Item_Information:
+        Item_Name: "&5&l王者之劍"
+        Item_Type: 276
+    Shooting:
+        Right_Click_To_Shoot: false
+        Cancel_Right_Click_Interactions: true
+        Delay_Between_Shots: 1
+        Projectile_Amount: 1
+        Projectile_Type: flare
+        Projectile_Subtype: 46
+        Projectile_Speed: 60
+        Sounds_Shoot: ghast_fireball-1-2-0,SHOOT_ARROW-1-2-0,MAGMACUBE_WALK-1-2-0
+    Airstrikes:
+        Enable: true
+        Flare_Activation_Delay: 20
+        Block_Type: 138
+        Area: 5
+        Distance_Between_Bombs: 5
+        Height_Dropped: 3
+        Multiple_Strikes:
+            Enable: true
+            Number_Of_Strikes: 3
+            Delay_Between_Strikes: 20
+    Explosions:
+        Enable: true
+        Damage_Multiplier: 50000
+        Enable_Owner_Immunity: true
+        Explosion_No_Grief: true
+        Explosion_Radius: 3﻿
